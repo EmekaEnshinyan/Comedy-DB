@@ -1,0 +1,1900 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -115.1690949,
+          36.1178579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1370483028390929769",
+        "Location": {
+          "Address": "3545 Las Vegas Blvd S, Las Vegas, NV 89109, United States",
+          "Business Name": "Jimmy Kimmel's Comedy Club",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "36.1178579",
+            "Longitude": "-115.1690949"
+          }
+        },
+        "Published": "2023-08-08T00:12:19Z",
+        "Title": "Jimmy Kimmel's Comedy Club",
+        "Updated": "2023-08-08T00:12:19Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.0512658,
+          42.6808930
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=14860029664903181494",
+        "Location": {
+          "Address": "120 N Crosby Ave, Janesville, WI 53548, United States",
+          "Business Name": "Comedy Cabin",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.6808930",
+            "Longitude": "-89.0512658"
+          }
+        },
+        "Published": "2023-06-18T14:02:58Z",
+        "Title": "Comedy Cabin",
+        "Updated": "2023-06-18T14:02:58Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.0247724,
+          39.8464251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11883755536555457459",
+        "Location": {
+          "Address": "4191 US-36, Decatur, IL 62522, United States",
+          "Business Name": "Decatur Conference Center & Hotel",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.8464251",
+            "Longitude": "-89.0247724"
+          }
+        },
+        "Published": "2023-06-09T21:33:52Z",
+        "Title": "Decatur Conference Center & Hotel",
+        "Updated": "2023-06-09T21:34:14Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.2732919,
+          32.8404504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=7872453474771666019",
+        "Location": {
+          "Address": "916 Pearl St, La Jolla, CA 92037, United States",
+          "Business Name": "The Comedy Store - La Jolla",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "32.8404504",
+            "Longitude": "-117.2732919"
+          }
+        },
+        "Published": "2023-05-01T03:53:06Z",
+        "Title": "The Comedy Store - La Jolla",
+        "Updated": "2023-05-01T03:53:26Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.7585780,
+          30.1716689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10981580369443619421",
+        "Location": {
+          "Address": "350 Crag Rd, Panama City Beach, FL 32407, United States",
+          "Business Name": "US Naval Diving & Salvage Training Center",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "30.1716689",
+            "Longitude": "-85.7585780"
+          }
+        },
+        "Published": "2023-03-15T23:20:05Z",
+        "Title": "US Naval Diving & Salvage Training Center",
+        "Updated": "2023-03-15T23:20:05Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -75.7354582,
+          39.7730189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=12+Deer+Run,+Newark,+DE+19711&ftid=0x89c6556b0e409d21:0x4c1f12416fd0093",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "39.7730189",
+            "Longitude": "-75.7354582"
+          }
+        },
+        "Published": "2023-03-06T19:57:23Z",
+        "Title": "12 Deer Run, Newark, DE 19711",
+        "Updated": "2023-03-06T19:57:23Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.9502027,
+          40.2305231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=16106540112407707611",
+        "Location": {
+          "Address": "203 Center St, Augusta, IL 62311, United States",
+          "Business Name": "The Buss Stop",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.2305231",
+            "Longitude": "-90.9502027"
+          }
+        },
+        "Published": "2023-02-15T14:45:53Z",
+        "Title": "The Buss Stop",
+        "Updated": "2023-02-15T14:45:53Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6491289,
+          41.9403189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=41.940319,-87.649129",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.9403189",
+            "Longitude": "-87.6491289"
+          }
+        },
+        "Published": "2017-08-25T00:08:57Z",
+        "Title": "41.940319,-87.649129",
+        "Updated": "2023-01-26T07:01:15Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6967429,
+          40.6285616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11575961249599263180",
+        "Location": {
+          "Address": "35 E Jones St, Milford, IL 60953, United States",
+          "Business Name": "TOWN AND COUNTRY EVENTS",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.6285616",
+            "Longitude": "-87.6967429"
+          }
+        },
+        "Published": "2023-01-25T22:32:20Z",
+        "Title": "TOWN AND COUNTRY EVENTS",
+        "Updated": "2023-01-25T22:32:20Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.1998322,
+          40.1054750
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=703+E+Washington+St,+Urbana,+IL+61801&ftid=0x880cd7a480a5a511:0xc9380f3acd69a46f",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "40.1054750",
+            "Longitude": "-88.1998322"
+          }
+        },
+        "Published": "2022-12-23T22:21:19Z",
+        "Title": "703 E Washington St, Urbana, IL 61801",
+        "Updated": "2022-12-23T22:21:19Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.2584499,
+          40.0952446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=16482835473027629816",
+        "Location": {
+          "Address": "1719 S Prospect Ave, Champaign, IL 61820, United States",
+          "Business Name": "Central Illinois Children's",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.0952446",
+            "Longitude": "-88.2584499"
+          }
+        },
+        "Published": "2022-12-03T19:47:19Z",
+        "Title": "Central Illinois Children's",
+        "Updated": "2022-12-03T19:47:19Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4154930,
+          37.7829890
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=15890662226409864071",
+        "Location": {
+          "Address": "222 Hyde St #3324, San Francisco, CA 94102, United States",
+          "Business Name": "The Setup",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.7829890",
+            "Longitude": "-122.4154930"
+          }
+        },
+        "Published": "2022-10-10T04:06:59Z",
+        "Title": "The Setup",
+        "Updated": "2022-10-10T04:07:21Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.8003437,
+          42.1816918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Highland+Park,+IL+60035&ftid=0x880fc183736df39f:0xaad42498ad24e401",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.1816918",
+            "Longitude": "-87.8003437"
+          }
+        },
+        "Published": "2022-07-09T23:10:24Z",
+        "Title": "Highland Park, Illinois 60035",
+        "Updated": "2022-07-09T23:10:24Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.5760486,
+          41.7964382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=17013472533897576103",
+        "Location": {
+          "Address": "Field House, 5491 S Lake Shore Dr, Chicago, IL 60615, United States",
+          "Business Name": "Promontory Field House",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.7964382",
+            "Longitude": "-87.5760486"
+          }
+        },
+        "Published": "2022-06-01T22:41:26Z",
+        "Title": "Promontory Field House",
+        "Updated": "2022-06-01T22:41:26Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6662511,
+          41.9622188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10449114262438634165",
+        "Location": {
+          "Address": "4416 N Clark St, Chicago, IL 60640, United States",
+          "Business Name": "My Buddy's",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9622188",
+            "Longitude": "-87.6662511"
+          }
+        },
+        "Published": "2022-06-01T22:39:35Z",
+        "Title": "My Buddy's",
+        "Updated": "2022-06-01T22:39:35Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6898249,
+          41.9866535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=17064964661345061440",
+        "Location": {
+          "Address": "5754 N Western Ave, Chicago, IL 60659, United States",
+          "Business Name": "VPT Grill",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9866535",
+            "Longitude": "-87.6898249"
+          }
+        },
+        "Published": "2022-06-01T22:38:50Z",
+        "Title": "VPT Grill",
+        "Updated": "2022-06-01T22:38:50Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6937280,
+          41.9975644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=4925346932046137948",
+        "Location": {
+          "Address": "2539 W Devon Ave, Chicago, IL 60659, United States",
+          "Business Name": "Bundoo Khan",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9975644",
+            "Longitude": "-87.6937280"
+          }
+        },
+        "Published": "2022-06-01T22:38:03Z",
+        "Title": "Bundoo Khan",
+        "Updated": "2022-06-01T22:38:03Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6815765,
+          41.9980708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=5146970281839208611",
+        "Location": {
+          "Address": "2032 W Devon Ave, Chicago, IL 60659, United States",
+          "Business Name": "Ghareeb Nawaz Restaurant",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9980708",
+            "Longitude": "-87.6815765"
+          }
+        },
+        "Published": "2022-06-01T22:37:45Z",
+        "Title": "Ghareeb Nawaz Restaurant",
+        "Updated": "2022-06-01T22:37:45Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6440462,
+          41.9396896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=3777800532046947675",
+        "Location": {
+          "Address": "3175 N Broadway, Chicago, IL 60657, United States",
+          "Business Name": "Laugh Factory",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9396896",
+            "Longitude": "-87.6440462"
+          }
+        },
+        "Published": "2022-05-31T19:04:49Z",
+        "Title": "Laugh Factory",
+        "Updated": "2022-05-31T19:05:14Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6811747,
+          41.9028041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=15159688954383765580",
+        "Location": {
+          "Address": "2135 W Division St, Chicago, IL 60622, United States",
+          "Business Name": "The Circle Salon",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9028041",
+            "Longitude": "-87.6811747"
+          }
+        },
+        "Published": "2022-05-31T19:02:27Z",
+        "Title": "The Circle Salon",
+        "Updated": "2022-05-31T19:02:27Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.6528305,
+          39.9815164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=483+E+1300+North+Rd,+Monticello,+IL+61856&ftid=0x880cad482940417b:0x9f0bbcbfc58bcc67",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "39.9815164",
+            "Longitude": "-88.6528305"
+          }
+        },
+        "Published": "2022-05-30T18:58:44Z",
+        "Title": "483 E 1300 North Rd, Monticello, IL 61856",
+        "Updated": "2022-05-30T18:58:44Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.1420115,
+          42.4877313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10712438322332542449",
+        "Location": {
+          "Address": "310 S Troy St, Royal Oak, MI 48067, United States",
+          "Business Name": "Mark Ridley's Comedy Castle",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.4877313",
+            "Longitude": "-83.1420115"
+          }
+        },
+        "Published": "2022-05-11T22:34:04Z",
+        "Title": "Mark Ridley's Comedy Castle",
+        "Updated": "2022-05-11T22:34:20Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.0707150,
+          42.0811553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=2439700381586616385",
+        "Location": {
+          "Address": "1200 W Algonquin Rd, Palatine, IL 60067, United States",
+          "Business Name": "Harper College Library",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.0811553",
+            "Longitude": "-88.0707150"
+          }
+        },
+        "Published": "2022-04-20T04:23:34Z",
+        "Title": "Harper College Library",
+        "Updated": "2022-04-20T04:23:34Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.6539033,
+          39.7956920
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=13465822293436812064",
+        "Location": {
+          "Address": "615 S 2nd St, Springfield, IL 62704, United States",
+          "Business Name": "Afscme Personal Support Program",
+          "Geo Coordinates": {
+            "Latitude": "39.7956920",
+            "Longitude": "-89.6539033"
+          }
+        },
+        "Published": "2022-03-09T16:50:33Z",
+        "Title": "Afscme Personal Support Program",
+        "Updated": "2022-03-09T16:50:33Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9808203,
+          40.7389205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1747813457154032631",
+        "Location": {
+          "Address": "241 E 24th St, New York, NY 10010, United States",
+          "Business Name": "New York Comedy Club",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.7389205",
+            "Longitude": "-73.9808203"
+          }
+        },
+        "Published": "2022-03-04T15:21:25Z",
+        "Title": "New York Comedy Club",
+        "Updated": "2022-03-04T15:21:25Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -86.5333220,
+          39.1657617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=13548653085908284522",
+        "Location": {
+          "Address": "123 S Walnut St, Bloomington, IN 47408, United States",
+          "Business Name": "The Comedy Attic",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "39.1657617",
+            "Longitude": "-86.5333220"
+          }
+        },
+        "Published": "2022-01-25T23:36:50Z",
+        "Title": "The Comedy Attic",
+        "Updated": "2022-01-25T23:36:50Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6609677,
+          42.0018273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=15992694489731777524",
+        "Location": {
+          "Address": "6558 N Sheridan Rd, Chicago, IL 60626, United States",
+          "Business Name": "IDOF - I Dream of Falafel",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.0018273",
+            "Longitude": "-87.6609677"
+          }
+        },
+        "Published": "2021-12-24T03:09:24Z",
+        "Title": "IDOF - I Dream of Falafel",
+        "Updated": "2021-12-24T03:09:24Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.2414976,
+          40.1215938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=605+N+Walnut+St,+Champaign,+IL+61820&ftid=0x880cd74dff186b11:0xa3137479918a451b",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "40.1215938",
+            "Longitude": "-88.2414976"
+          }
+        },
+        "Published": "2021-10-09T07:25:26Z",
+        "Title": "605 N Walnut St, Champaign, IL 61820",
+        "Updated": "2021-10-09T07:25:26Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4100375,
+          37.7752219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=1196+Folsom+St,+San+Francisco,+CA+94103&ftid=0x80858082872f7ee1:0xcb48d8cf52b1120b",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "37.7752219",
+            "Longitude": "-122.4100375"
+          }
+        },
+        "Published": "2021-09-01T16:17:55Z",
+        "Title": "1196 Folsom St, San Francisco, CA 94103",
+        "Updated": "2021-09-01T16:17:55Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7027478,
+          41.9426262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1710267468833700986",
+        "Location": {
+          "Address": "3361 N Elston Ave, Chicago, IL 60618, United States",
+          "Business Name": "Honey Butter Fried Chicken",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9426262",
+            "Longitude": "-87.7027478"
+          }
+        },
+        "Published": "2021-08-25T15:31:27Z",
+        "Title": "Honey Butter Fried Chicken",
+        "Updated": "2021-08-25T15:31:27Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6445955,
+          41.9268713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1040411505623380063",
+        "Location": {
+          "Address": "616 W Arlington Pl, Chicago, IL 60614, United States",
+          "Business Name": "Chicago Getaway Hostel",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9268713",
+            "Longitude": "-87.6445955"
+          }
+        },
+        "Published": "2021-04-28T22:57:45Z",
+        "Title": "Chicago Getaway Hostel",
+        "Updated": "2021-04-28T22:57:45Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.2755300,
+          37.8011570
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=14590056431501929826",
+        "Location": {
+          "Address": "Ohlone Territory, 528 8th St, Oakland, CA 94607, United States",
+          "Business Name": "understory oakland",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.8011570",
+            "Longitude": "-122.2755300"
+          }
+        },
+        "Published": "2021-03-31T21:06:56Z",
+        "Title": "understory oakland",
+        "Updated": "2021-03-31T21:06:56Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.2704656,
+          34.1097407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=5769089811766111610",
+        "Location": {
+          "Address": "2930 Hyperion Ave, Los Angeles, CA 90027, United States",
+          "Business Name": "Silver Lake Community Church",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "34.1097407",
+            "Longitude": "-118.2704656"
+          }
+        },
+        "Published": "2021-03-28T05:33:04Z",
+        "Title": "Silverlake Presbyterian Church",
+        "Updated": "2021-03-28T05:33:04Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4484231,
+          37.8029308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=16816682395831545077",
+        "Location": {
+          "Address": "3601 Lyon St, San Francisco, CA 94123, United States",
+          "Business Name": "Palace of Fine Arts",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "37.8029308",
+            "Longitude": "-122.4484231"
+          }
+        },
+        "Published": "2021-03-15T16:06:05Z",
+        "Title": "The Palace Of Fine Arts",
+        "Updated": "2021-03-15T16:06:05Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.1629416,
+          34.2538547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=Cedar+Glen,+Lake+Arrowhead,+CA+92321&ftid=0x80c357225ca187b9:0x8d00070d7793fb5",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "34.2538547",
+            "Longitude": "-117.1629416"
+          }
+        },
+        "Published": "2021-02-04T05:50:46Z",
+        "Title": "Cedar Glen, Lake Arrowhead, CA 92321",
+        "Updated": "2021-02-04T05:50:46Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9816178,
+          40.6859214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=18409358538786794097",
+        "Location": {
+          "Address": "487 Atlantic Ave, Brooklyn, NY 11217, United States",
+          "Business Name": "EastVille Comedy Club",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.6859214",
+            "Longitude": "-73.9816178"
+          }
+        },
+        "Published": "2020-11-28T02:08:16Z",
+        "Title": "EastVille Comedy Club",
+        "Updated": "2020-11-28T02:08:16Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6708650,
+          42.0030790
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=6646+N+Ashland+Ave,+Chicago,+IL+60626&ftid=0x880fd1ba5111d431:0xa04e87b419b9d70f",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.0030790",
+            "Longitude": "-87.6708650"
+          }
+        },
+        "Published": "2020-06-02T20:14:52Z",
+        "Title": "6646 N Ashland Ave, Chicago, IL 60626",
+        "Updated": "2020-06-02T20:14:52Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.9962483,
+          41.9040866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=9571853408246117722",
+        "Location": {
+          "Address": "701 W North Ave, Villa Park, IL 60181, United States",
+          "Business Name": "Safari Land",
+          "Geo Coordinates": {
+            "Latitude": "41.9040866",
+            "Longitude": "-87.9962483"
+          }
+        },
+        "Published": "2020-03-03T01:26:11Z",
+        "Title": "Safari Land",
+        "Updated": "2020-03-03T01:26:11Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.3547854,
+          41.7874278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11312811675682084379",
+        "Location": {
+          "Address": "1500 Sullivan Rd, Aurora, IL 60506, United States",
+          "Business Name": "Illinois Mathematics and Science Academy",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.7874278",
+            "Longitude": "-88.3547854"
+          }
+        },
+        "Published": "2020-03-03T01:22:10Z",
+        "Title": "Illinois Mathematics and Science Academy",
+        "Updated": "2020-03-03T01:22:13Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.3083901,
+          41.7614033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=233+N+Broadway,+Aurora,+IL+60505&ftid=0x880efabb880e9b65:0x22142ed894461083",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.7614033",
+            "Longitude": "-88.3083901"
+          }
+        },
+        "Published": "2020-03-03T01:21:54Z",
+        "Title": "233 N Broadway, Aurora, IL 60505",
+        "Updated": "2020-03-03T01:21:54Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6881674,
+          41.9675449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=8028968980404435128",
+        "Location": {
+          "Address": "4736 N Lincoln Ave, Chicago, IL 60625, United States",
+          "Business Name": "The Book Cellar",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9675449",
+            "Longitude": "-87.6881674"
+          }
+        },
+        "Published": "2019-10-02T20:05:07Z",
+        "Title": "The Book Cellar",
+        "Updated": "2019-10-02T20:05:07Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7280279,
+          41.9683269
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1023222285034632215",
+        "Location": {
+          "Address": "Chicago, IL 60625, United States",
+          "Business Name": "World Tree Healing",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9683269",
+            "Longitude": "-87.7280279"
+          }
+        },
+        "Published": "2019-10-02T20:04:43Z",
+        "Title": "World Tree Healing",
+        "Updated": "2019-10-02T20:04:43Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6605813,
+          41.9834838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=15558340489170193431",
+        "Location": {
+          "Address": "1203 W Bryn Mawr Ave, Chicago, IL 60660, United States",
+          "Business Name": "Alchemy Arts Occult Supply",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9834838",
+            "Longitude": "-87.6605813"
+          }
+        },
+        "Published": "2019-10-02T20:04:03Z",
+        "Title": "Alchemy Arts Occult Supply",
+        "Updated": "2019-10-02T20:04:03Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7189837,
+          41.9363667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=7202737789724580127",
+        "Location": {
+          "Address": "3031 N Milwaukee Ave, Chicago, IL 60618, United States",
+          "Business Name": "Occult Bookstore",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9363667",
+            "Longitude": "-87.7189837"
+          }
+        },
+        "Published": "2019-10-02T20:01:19Z",
+        "Title": "Occult Book Store",
+        "Updated": "2019-10-02T20:01:19Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -90.3386450,
+          38.5899163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=38.589916,-90.338645",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "38.5899163",
+            "Longitude": "-90.3386450"
+          }
+        },
+        "Published": "2015-11-29T01:59:31Z",
+        "Title": "38.589916,-90.338645",
+        "Updated": "2019-06-28T13:40:15Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6262420,
+          40.1609250
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=40.160924975240874,-87.62624200433493",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "40.1609250",
+            "Longitude": "-87.6262420"
+          }
+        },
+        "Published": "2018-07-11T01:31:57Z",
+        "Title": "40.160924975240874,-87.62624200433493",
+        "Updated": "2018-07-11T01:31:57Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6504025,
+          41.9392354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=2671850978147529405",
+        "Location": {
+          "Address": "3162 N Clark St, Chicago, IL 60657, United States",
+          "Business Name": "Shakers on Clark",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9392354",
+            "Longitude": "-87.6504025"
+          }
+        },
+        "Published": "2018-05-07T16:15:54Z",
+        "Title": "Shakers on Clark",
+        "Updated": "2018-05-07T16:15:54Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.8197771,
+          41.8697985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=6427977471899503794",
+        "Location": {
+          "Address": "863 Des Plaines Ave, Forest Park, IL 60130, United States",
+          "Business Name": "Haymarket Martyrs' Monument",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.8697985",
+            "Longitude": "-87.8197771"
+          }
+        },
+        "Published": "2018-04-30T22:37:29Z",
+        "Title": "Haymarket Martyr's Monument",
+        "Updated": "2018-04-30T22:37:29Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.8407378,
+          41.9152058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10136171091966975237",
+        "Location": {
+          "Address": "2000 5th Ave, River Grove, IL 60171, United States",
+          "Business Name": "Triton College",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9152058",
+            "Longitude": "-87.8407378"
+          }
+        },
+        "Published": "2017-10-10T18:04:23Z",
+        "Title": "Triton College",
+        "Updated": "2017-10-10T18:04:23Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7110012,
+          41.9758933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=14543548510328126620",
+        "Location": {
+          "Address": "3258 W Foster Ave, Chicago, IL 60625, United States",
+          "Business Name": "Tre Kronor",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9758933",
+            "Longitude": "-87.7110012"
+          }
+        },
+        "Published": "2017-08-25T00:08:38Z",
+        "Title": "Tre Kronor",
+        "Updated": "2017-08-25T00:08:38Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6685797,
+          41.9758170
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1747299451319094116",
+        "Location": {
+          "Address": "5148 N Clark St, Chicago, IL 60640, United States",
+          "Business Name": "Hopleaf",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9758170",
+            "Longitude": "-87.6685797"
+          }
+        },
+        "Published": "2017-08-25T00:07:50Z",
+        "Title": "Hopleaf",
+        "Updated": "2017-08-25T00:07:50Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6605660,
+          41.9655065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1586394071848188295",
+        "Location": {
+          "Address": "1224 W Wilson Ave, Chicago, IL 60640, United States",
+          "Business Name": "Emerald City Coffee",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9655065",
+            "Longitude": "-87.6605660"
+          }
+        },
+        "Published": "2017-08-25T00:07:25Z",
+        "Title": "Emerald City Uptown",
+        "Updated": "2017-08-25T00:07:25Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.5643780,
+          41.5266345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=16847831585548345131",
+        "Location": {
+          "Address": "2180 Glenwood Dyer Rd, Lynwood, IL 60411, United States",
+          "Business Name": "Warsaw Inn",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.5266345",
+            "Longitude": "-87.5643780"
+          }
+        },
+        "Published": "2017-08-24T22:56:07Z",
+        "Title": "Warsaw Inn",
+        "Updated": "2017-08-24T22:56:07Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6230343,
+          41.8959836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=14723739178257739302",
+        "Location": {
+          "Address": "162 E Superior St, Chicago, IL 60611, United States",
+          "Business Name": "The Comedy Bar",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.8959836",
+            "Longitude": "-87.6230343"
+          }
+        },
+        "Published": "2017-03-25T17:28:27Z",
+        "Title": "The Comedy Bar",
+        "Updated": "2017-03-25T17:28:27Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7564859,
+          41.9720157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=41.972016,-87.756486",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.9720157",
+            "Longitude": "-87.7564859"
+          }
+        },
+        "Published": "2016-04-02T04:39:15Z",
+        "Title": "41.972016,-87.756486",
+        "Updated": "2017-01-24T05:27:01Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7149030,
+          41.9466730
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11733666303329999525",
+        "Location": {
+          "Address": "3454 W Addison St, Chicago, IL 60618, United States",
+          "Business Name": "Mirabella Italian Cuisine & Bar",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9466730",
+            "Longitude": "-87.7149030"
+          }
+        },
+        "Published": "2016-04-26T20:51:43Z",
+        "Title": "M PUB",
+        "Updated": "2016-04-26T20:51:43Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7568185,
+          41.9720396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=5025+N+Laramie+Ave,+Chicago,+IL+60630&ftid=0x880fcc18ab600a17:0x4d58f1611c7c06c6",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.9720396",
+            "Longitude": "-87.7568185"
+          }
+        },
+        "Published": "2016-04-02T04:35:57Z",
+        "Title": "5025 North Laramie Avenue, Chicago, IL 60630",
+        "Updated": "2016-04-02T04:35:57Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.2700060,
+          40.1196230
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=404+N+Draper+Ave,+Champaign,+IL+61821&ftid=0x880cd09729d38f2d:0x39daf71e82fb896a",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "40.1196230",
+            "Longitude": "-88.2700060"
+          }
+        },
+        "Published": "2016-02-22T19:55:53Z",
+        "Title": "404 North Draper Avenue, Champaign, IL 61821",
+        "Updated": "2016-02-22T19:55:53Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7134945,
+          41.9503092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11507735019496100063",
+        "Location": {
+          "Address": "3420 W Grace St, Chicago, IL 60618, United States",
+          "Business Name": "Abbey Chicago",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9503092",
+            "Longitude": "-87.7134945"
+          }
+        },
+        "Published": "2015-03-03T22:27:30Z",
+        "Title": "The Abbey",
+        "Updated": "2015-03-03T22:27:30Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7138253,
+          41.9503835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=3420+W+Grace+St,+Chicago,+IL+60618&ftid=0x880fcd969491b6eb:0x6dd75131945387b",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.9503835",
+            "Longitude": "-87.7138253"
+          }
+        },
+        "Published": "2015-03-03T22:27:18Z",
+        "Title": "3420 West Grace Street, Chicago, IL 60618",
+        "Updated": "2015-03-03T22:27:18Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6000559,
+          41.7923796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=1100 E 57th St, The University of Chicago, Chicago, IL 60637&ftid=0x880e293e3ba267cb:0xb823718ca19c0ee3",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.7923796",
+            "Longitude": "-87.6000559"
+          }
+        },
+        "Published": "2014-12-26T05:01:39Z",
+        "Title": "1100 East 57th Street, Chicago, IL 60637",
+        "Updated": "2014-12-26T05:01:39Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6690756,
+          41.9856429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11158187056648709520",
+        "Location": {
+          "Address": "5707 N Clark St, Chicago, IL 60660, United States",
+          "Business Name": "m.henry",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9856429",
+            "Longitude": "-87.6690756"
+          }
+        },
+        "Published": "2014-12-03T06:16:45Z",
+        "Title": "m.henry",
+        "Updated": "2014-12-03T06:16:45Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6612218,
+          42.0077619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=10434121419290072384",
+        "Location": {
+          "Address": "6935 N Sheridan Rd, Chicago, IL 60626, United States",
+          "Business Name": "Leona's Pizzeria & Restaurant",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.0077619",
+            "Longitude": "-87.6612218"
+          }
+        },
+        "Published": "2014-10-25T18:48:55Z",
+        "Title": "Leona's Restaurant",
+        "Updated": "2014-10-25T18:48:55Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6605769,
+          41.9902879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=12234554013214083567",
+        "Location": {
+          "Address": "5938 N Broadway, Chicago, IL 60660, United States",
+          "Business Name": "The Growling Rabbit",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9902879",
+            "Longitude": "-87.6605769"
+          }
+        },
+        "Published": "2014-10-25T18:48:39Z",
+        "Title": "The Growling Rabbit",
+        "Updated": "2014-10-25T18:48:39Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.9844269,
+          42.0826040
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=416814818437410902",
+        "Location": {
+          "Address": "111 W Campbell St, Arlington Heights, IL 60005, United States",
+          "Business Name": "Metropolis Performing Arts Centre",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.0826040",
+            "Longitude": "-87.9844269"
+          }
+        },
+        "Published": "2014-10-16T00:58:48Z",
+        "Title": "Metropolis Performing Arts Center",
+        "Updated": "2014-10-16T00:58:48Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -88.0142888,
+          41.8619027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=1042875715449881172",
+        "Location": {
+          "Address": "200 E Roosevelt Rd, Lombard, IL 60148, United States",
+          "Business Name": "National University of Health Sciences",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.8619027",
+            "Longitude": "-88.0142888"
+          }
+        },
+        "Published": "2014-10-15T05:10:33Z",
+        "Title": "National University of Health Sciences",
+        "Updated": "2014-10-15T05:10:33Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -89.5978860,
+          40.7228700
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=308 W Maywood Ave, Peoria, IL 61604&ftid=0x880a5bda8a44481f:0x402398e9512c442c",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "40.7228700",
+            "Longitude": "-89.5978860"
+          }
+        },
+        "Published": "2014-10-11T15:34:05Z",
+        "Title": "308 W Maywood Ave, Peoria, IL 61604",
+        "Updated": "2014-10-11T15:34:05Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6197210,
+          41.8966152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=16264736743228808040",
+        "Location": {
+          "Address": "303 E Chicago Ave, Chicago, IL 60611, United States",
+          "Business Name": "Feinberg School of Medicine",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.8966152",
+            "Longitude": "-87.6197210"
+          }
+        },
+        "Published": "2014-10-01T21:33:33Z",
+        "Title": "Feinberg School of Medicine",
+        "Updated": "2014-10-01T21:33:33Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6718460,
+          42.0042270
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=1631 W Columbia Ave, Chicago, IL 60626&ftid=0x880fd1ba147f485f:0xdace980005c07b77",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.0042270",
+            "Longitude": "-87.6718460"
+          }
+        },
+        "Published": "2014-10-01T21:14:20Z",
+        "Title": "1631 W Columbia Ave, Chicago, IL 60626",
+        "Updated": "2014-10-01T21:14:20Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6811670,
+          41.9028289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=2135 W Division St, Chicago, IL 60622&ftid=0x880fd2b6eea0affb:0x316493e59a13a01d",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.9028289",
+            "Longitude": "-87.6811670"
+          }
+        },
+        "Published": "2014-09-28T19:16:58Z",
+        "Title": "2135 W Division St, Chicago, IL 60622",
+        "Updated": "2014-09-28T19:16:58Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6582721,
+          41.9254174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=11634441799976711117",
+        "Location": {
+          "Address": "1150 W Fullerton Ave, Chicago, IL 60614, United States",
+          "Business Name": "Lincoln Park Branch, Chicago Public Library",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9254174",
+            "Longitude": "-87.6582721"
+          }
+        },
+        "Published": "2014-09-25T20:00:39Z",
+        "Title": "Lincoln Park Public Library",
+        "Updated": "2014-09-25T20:00:39Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6580836,
+          41.9254616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=1150 W Fullerton Ave, DePaul University Lincoln Park Campus Welcome Center, Chicago, IL 60614&ftid=0x880fd31d557ed523:0x5844a3e147b14f29",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.9254616",
+            "Longitude": "-87.6580836"
+          }
+        },
+        "Published": "2014-09-25T19:58:11Z",
+        "Title": "1150 W Fullerton Ave, Chicago, IL 60614",
+        "Updated": "2014-09-25T19:58:11Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7074112,
+          41.9321552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=2807 N Kedzie Ave, Chicago, IL 60618&ftid=0x880fcd7757fdd1a7:0x39808c6f8e5462e0",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.9321552",
+            "Longitude": "-87.7074112"
+          }
+        },
+        "Published": "2014-09-23T21:00:53Z",
+        "Title": "2807 N Kedzie Ave, Chicago, IL 60618",
+        "Updated": "2014-09-23T21:00:53Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6279331,
+          41.8954492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=2814897032096498063",
+        "Location": {
+          "Address": "1 E Superior St #405, Chicago, IL 60611, United States",
+          "Business Name": "Holistic Health Practice",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.8954492",
+            "Longitude": "-87.6279331"
+          }
+        },
+        "Published": "2014-09-18T13:05:41Z",
+        "Title": "Holistic Health Practice",
+        "Updated": "2014-09-18T13:05:41Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.8023250,
+          41.8915260
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=222 N Marion St, Oak Park, IL 60302&ftid=0x880e34cee128cc7b:0x4b9c44379d0e6abb",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.8915260",
+            "Longitude": "-87.8023250"
+          }
+        },
+        "Published": "2014-09-17T14:27:31Z",
+        "Title": "222 N Marion St, Oak Park, IL 60302",
+        "Updated": "2014-09-17T14:27:31Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.8282890,
+          41.9341010
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=8035 Oconnor Dr, River Grove, IL 60171&ftid=0x880fcaf6d38f1897:0xf413d173743b2dfb",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.9341010",
+            "Longitude": "-87.8282890"
+          }
+        },
+        "Published": "2014-09-17T14:20:18Z",
+        "Title": "8035 Oconnor Dr, River Grove, IL 60171",
+        "Updated": "2014-09-17T14:20:18Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6624051,
+          42.0079655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=1239 W Morse Ave, Chicago, IL 60626&ftid=0x880fd1a923161519:0xae8026924d2ed9e2",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "42.0079655",
+            "Longitude": "-87.6624051"
+          }
+        },
+        "Published": "2014-09-17T04:28:02Z",
+        "Title": "1239 W Morse Ave, Chicago, IL 60626",
+        "Updated": "2014-09-17T04:28:02Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7148380,
+          41.9466380
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?q=3454+W+Addison+St+Chicago,+IL+60618&ftid=0x880fcd9780175dd7:0xed71ab23c1524596",
+        "Location": {
+          "Geo Coordinates": {
+            "Latitude": "41.9466380",
+            "Longitude": "-87.7148380"
+          }
+        },
+        "Published": "2012-04-15T17:18:11Z",
+        "Title": "3454 W Addison St, Chicago, IL 60618",
+        "Updated": "2012-04-15T17:18:11Z"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6843339,
+          41.9612716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "http://maps.google.com/?cid=6337860473711623872",
+        "Location": {
+          "Address": "2213 W Montrose Ave, Chicago, IL 60618, United States",
+          "Business Name": "Taqueria El Asadero",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.9612716",
+            "Longitude": "-87.6843339"
+          }
+        },
+        "Published": "2009-06-04T17:54:43Z",
+        "Title": "Taqueria El Asadero",
+        "Updated": "2009-06-04T17:54:43Z"
+      },
+      "type": "Feature"
+    }
+  ]
+}
