@@ -5,15 +5,39 @@
 3. write data to excel sheet
 '''
 
+import requests
 
-import googlemaps
-import openpyxl
-import pandas as pd
-import math 
+url = "https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=Comedy%20Clubs&inputtype=textquery&fields=formatted_address%2Cname%2Crating%2Copening_hours%2Cgeometry&key=AIzaSyBhY-NtxGx2Fq_W2UE0MSUW7v6w2e3ca4M"
+
+payload={}
+headers = {}
+
+response = requests.request("GET", url, headers=headers, data=payload)
+
+print(response.text)
+
+
+'''
+import requests
 
 #gmaps api key
-API_KEY = "AIzaSyBhY-NtxGx2Fq_W2UE0MSUW7v6w2e3ca4M"
+api_key = "AIzaSyBhY-NtxGx2Fq_W2UE0MSUW7v6w2e3ca4M"
+url = "https://maps.googleapis.com/maps/api/place/textsearch/json?"
 
+query = input("comedy clubs: ")
+
+req = requests.get(url + 'query=' + query + '&key=' + api_key)
+
+json_format = req.json()
+
+store_dict = json_format['results']
+
+for i in range(len(store_dict)):
+    print(store_dict[i]['name'])
+'''
+
+
+'''
 # Initialize 
 gmap = googlemaps.Client(key=API_KEY)
 
@@ -42,3 +66,4 @@ for result in search_results['results']:
 #save
 wb.save('gmaps-search-result.csv')
 wb.save('gmaps-search-result.json')
+'''
